@@ -5,7 +5,7 @@ function Keypad (){
     function myChangeListener(event)
     {
         console.log("Entering password...");
-        console.log(event.target.value);
+        //console.log(event.target.value);
     }
 
     return (
